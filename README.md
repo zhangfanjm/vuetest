@@ -1,2 +1,4 @@
 vuetest
-v
+
+vuecli+elementui+axios+django
+1
